@@ -10,7 +10,16 @@ A robust, Command-Line Interface (CLI) Password Manager built with Python. This 
 * **Command-Line Interface (CLI):** A lightweight, fast, and secure terminal-based interface.
 
 ## 🛠️ Technologies & Libraries Used
+
+* **Python 3.x**
+* **SQLite3** (Built-in) - Relational Database Management
+* **Cryptography (Fernet)** - Symmetric key encryption
+* **Hashlib** - Secure one-way hashing for the master password
+* **OS Module** - File system operations
+
+## ⚙️ Setup and Installation
+
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Diwyani-jayasuriya/Password-Manager.git](https://github.com/Diwyani-jayasuriya/Password-Manager.git)
+git clone [https://github.com/Diwyani-jayasuriya/Password-Manager.git](https://github.com/Diwyani-jayasuriya/Password-Manager.git)
    cd Password-Manager
