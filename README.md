@@ -23,5 +23,5 @@ A robust, Command-Line Interface (CLI) Password Manager built with Python. This 
    ```bash
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Diwyani-jayasuriya/Password-Manager.git](https://github.com/Diwyani-jayasuriya/Password-Manager.git)
-   cd Password-Manager
+ git clone https://github.com/Diwyani-jayasuriya/Password-Manager.git
+cd Password-Manager
